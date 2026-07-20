@@ -103,7 +103,6 @@ Telegram booking platform for IELTS speaking sessions.
 ---
 
 ## 📈 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umarbek-x&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umarbek-x&layout=compact&theme=github_dark)
