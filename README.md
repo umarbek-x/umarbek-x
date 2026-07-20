@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umarbek</h1>
+<h1 align="center">I'm Umarbek</h1>
 
 <h3 align="center">
 Backend Software Engineer passionate about building scalable systems with Go.
